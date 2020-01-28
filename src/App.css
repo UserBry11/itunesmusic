@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  text-align: center;
+  width: 100%;
+  padding: 50%;
+  background-color: gray;
+}
+
+table {
+  margin-top: 3%;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid rgb(102, 102, 26);
+}
+
+input {
+  text-align: center;
+}
+
+
+@media only screen and (min-width: 600px) {
+  body { background-color: rgb(103, 160, 103); }
+}
+
+@media only screen and (min-width: 768px) {
+  body { background: rgb(131, 131, 194); }
+} 
+
+@media only screen and (min-width: 992px) {
+  body { background: rgb(150, 100, 151); }
+} 

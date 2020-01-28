@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/itunesmusic/static/css/main.2d70e136.chunk.css",
+    "main.js": "/itunesmusic/static/js/main.fadbce43.chunk.js",
+    "main.js.map": "/itunesmusic/static/js/main.fadbce43.chunk.js.map",
+    "runtime-main.js": "/itunesmusic/static/js/runtime-main.4e4369f6.js",
+    "runtime-main.js.map": "/itunesmusic/static/js/runtime-main.4e4369f6.js.map",
+    "static/js/2.09c04f31.chunk.js": "/itunesmusic/static/js/2.09c04f31.chunk.js",
+    "static/js/2.09c04f31.chunk.js.map": "/itunesmusic/static/js/2.09c04f31.chunk.js.map",
+    "index.html": "/itunesmusic/index.html",
+    "precache-manifest.aa50546b2653300302fc88b564707e67.js": "/itunesmusic/precache-manifest.aa50546b2653300302fc88b564707e67.js",
+    "service-worker.js": "/itunesmusic/service-worker.js",
+    "static/css/main.2d70e136.chunk.css.map": "/itunesmusic/static/css/main.2d70e136.chunk.css.map",
+    "static/js/2.09c04f31.chunk.js.LICENSE": "/itunesmusic/static/js/2.09c04f31.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e4369f6.js",
+    "static/js/2.09c04f31.chunk.js",
+    "static/css/main.2d70e136.chunk.css",
+    "static/js/main.fadbce43.chunk.js"
+  ]
+}
